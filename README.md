@@ -1,6 +1,6 @@
 some review questions
 -----------------------------
-what is the difference between the parameters to a controller function or a service function, and the parameters to a regular function?
+* what is the difference between the parameters to a controller function or a service function, and the parameters to a regular function?
 what is the difference between a method and a function?
 what is the difference between a property and a value?
 what is the purpose of a controller?
